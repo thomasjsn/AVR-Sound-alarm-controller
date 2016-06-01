@@ -2,7 +2,7 @@
 
 Simple unit to control three sound signals; beep, siren and buzzer. Uses an AVR ATtiny2313 microcontroller.
 
-![Sound alarm controller](https://files.uctrl.net/github/modules/161.jpeg)
+![Sound alarm controller](https://cdn.uctrl.net/github/modules/161.jpeg)
 
 Written in basic, using [Bascom-AVR](http://www.mcselec.com/).
 
