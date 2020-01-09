@@ -1,10 +1,10 @@
-## Source code for project: [Sound alarm controller](https://uctrl.io/projects/avr-sound-alarm-control-unit-d4w2e4)
+## Source code for project: [Sound alarm controller](https://link.stdout.no/Z)
 
 Simple unit to control three sound signals; beep, siren and buzzer. Uses an AVR ATtiny2313 microcontroller.
 
-![Sound alarm controller](https://static.uctrl.net/imgs/041d41.jpeg)
+![Sound alarm controller](image.jpg)
 
 Written in basic, using [Bascom-AVR](http://www.mcselec.com/).
 
 ### Author
-[Thomas Jensen](https://uctrl.io/@hebron)
+[Thomas Jensen](https://thomas.stdout.no)
