@@ -2,9 +2,9 @@
 
 > Simple unit to control three sound signals; beep, siren and buzzer. Uses an AVR ATtiny2313 microcontroller.
 
-Project documentation available at: https://cavelab.dev/wiki/Sound_alarm_control_unit
+Project documentation available at: https://blog.cavelab.dev/2006/08/avr-sound-alarm-unit/
 
-![Sound alarm control unit](https://cavelab.dev/images/3/3a/Two-microcontroller-modules-6gyr14.jpeg)
+![Sound alarm control unit](https://i.logistics.cavelab.net/large/548.jpeg)
 
 Written in basic, using [BASCOM-AVR](http://www.mcselec.com/).
 
@@ -12,10 +12,10 @@ Written in basic, using [BASCOM-AVR](http://www.mcselec.com/).
 **Thomas Jensen**
 * Twitter: [@thomasjsn](https://twitter.com/thomasjsn)
 * Github: [@thomasjsn](https://github.com/thomasjsn)
-* Website: [cavelab.dev](https://cavelab.dev/wiki/User:Thomas)
+* Website: [cavelab.dev](https://cavelab.dev)
 
 ## License
 The MIT License (MIT). Please see [license file](LICENSE.txt) for more information.
 
 ---
-_This README was automatically generated using the MediaWiki API_ (`pageid:349`)
+_This README was automatically generated using µLogistics_ (`projectid:161`)
